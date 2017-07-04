@@ -1,0 +1,1 @@
+realPython course. Section 2. Create a first blog in flask
